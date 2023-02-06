@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Wiscript
 - 👀 I’m interested in Roblox Development
-- 🌱 I’m currently learning learning Roact/Rodux (React, Redux) in Roblox; JS IRL
+- 🌱 I’m currently working with brands
